@@ -1,1 +1,2 @@
-# NumPy-from-scratch-in-C-
+# NumPy-from-scratch-in-C++
+Developed a custom numerical computing library in C++ that emulates basic functionality of NumPy. The project involved designing a template-based multidimensional array class supporting various mathematical operations, including element-wise arithmetic, trigonometric functions, and matrix operations. Implemented efficient memory management, advanced indexing, and broadcasting rules to handle arrays of different shapes. Ensured performance optimization through parallel computing techniques. This library enhances numerical computations in C++ applications, offering a robust and flexible alternative for data manipulation and analysis.
